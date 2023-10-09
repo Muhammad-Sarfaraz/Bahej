@@ -1,0 +1,35 @@
+{
+    "name": "Bahej",
+    "displayName": "Bahej",
+    "description": "A delightful and neat theme for everyone",
+    "version": "1.0.1",
+    "icon": "images/icon.png",
+    "galleryBanner": {
+        "color": "#23262E",
+        "theme": "dark"
+    },
+    "publisher": "Sarfaraz",
+    "author": {
+        "name": "Sarfaraz",
+        "url": "https://github.com/Muhammad-Sarfaraz",
+        "email": "sarfaraz.scp@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/Muhammad-Sarfaraz/Bahej"
+    },
+    "engines": {
+        "vscode": "^1.14.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Bahej",
+                "uiTheme": "vs-dark",
+                "path": "./themes/Bahej-theme.json"
+            }
+        ]
+    }
+}
