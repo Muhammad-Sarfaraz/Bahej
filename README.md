@@ -8,7 +8,8 @@
 
 [**→ Install now**](https://marketplace.visualstudio.com/items?itemName=Sarfaraz.Bahej)
 
-![](https://i.ibb.co/BNJCtfx/image-2024-04-19-T09-58-34-122-Z.png)
+![](https://raw.githubusercontent.com//Muhammad-Sarfaraz/Bahej/main/images/screenshot.png)
+
 </div>
 
 # Bahej
