@@ -15,3 +15,11 @@
 # Bahej
 🌈 Bahej: A Colorful VSCode Theme Extension
 
+## Inspiration
+
+Special Thanks to [**colinlienard**](https://github.com/colinlienard) 
+
+## License
+
+[MIT](./LICENSE) © Sarfaraz Muhammad Sajib
+
