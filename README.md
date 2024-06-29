@@ -13,7 +13,7 @@
 </div>
 
 # Bahej
-🌈 Bahej: A Colorful VSCode Theme Extension
+🌺 Bahej: A Colorful VSCode Theme Extension
 
 ## 📊 Activity
 
