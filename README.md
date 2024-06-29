@@ -15,6 +15,11 @@
 # Bahej
 🌈 Bahej: A Colorful VSCode Theme Extension
 
+## 📊 Activity
+
+![Alt](https://repobeats.axiom.co/api/embed/2703cea2070b3862f0b70603cdbe0a8201a8d6d4.svg "Repobeats analytics image")
+
+
 ## Inspiration
 
 Special Thanks to [**colinlienard**](https://github.com/colinlienard) 
